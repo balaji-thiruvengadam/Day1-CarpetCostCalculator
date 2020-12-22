@@ -1,13 +1,6 @@
 # Java-Training
 Coding examples and exercises
 
-
-#First Java Program:
-Speed Converter - Kilometers to Miles
-
-- Learn strcutural aspect of Java coding, class, methods, create objects, using variables etc
-- Learn to implement good coding practices
-
 #Object Oriented Programming
 - Solve the below Carpet company problem using Inheritence and Polymorphism:
 
